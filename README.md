@@ -2,7 +2,7 @@
 summary: 'Create a simple responsive website that conforms to our performance budget.'
 time: '1 hour'
 deliverables: '1 HTML file, 3 CSS files, images'
-download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/this-site-aint-no-sloth-download.zip'
+download: 'https://assets.learntheweb.courses/web-dev-3/this-site-aint-no-sloth-download.zip'
 ---
 
 # This site isn’t a sloth
